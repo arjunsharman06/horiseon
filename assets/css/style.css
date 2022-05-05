@@ -113,17 +113,17 @@ p {
 }
 
 /*-- Repeatitive code removed from Benefit section --*/
-.benefit-sub{
+.benefit-section{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-sub h3{
+.benefit-section h3{
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-sub img {
+.benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
