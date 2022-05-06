@@ -2,8 +2,9 @@
 
 ## LINKS :
 
-- #### Deployment Link (SSH): <git@github.com:arjunsharman06/horiseon.git>
-- #### Deployment Link (HTTPS): <https://github.com/arjunsharman06/horiseon.git>
+- #### Cloning Link (SSH): <git@github.com:arjunsharman06/horiseon.git>
+- #### Cloning Link (HTTPS): <https://github.com/arjunsharman06/horiseon.git>
+- #### Deployment Link : https://arjunsharman06.github.io/horiseon/
 - #### Code View: <https://github.com/arjunsharman06/horiseon>
 
 ## SCREENSHOT
